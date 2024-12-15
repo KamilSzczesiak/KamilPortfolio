@@ -23,22 +23,22 @@
 
  ### Screenshots
  #### Hero Section
-![Hero Section](image.png)
+https://imgur.com/VYphN9N
 
 #### About Section
-![About Section](image-1.png)
+https://imgur.com/teinYM0
 
 #### Project Section
-![Projects Section](image-2.png)
+https://imgur.com/gC0FQnj
 
 #### Contact Section
-![Contact Section](image-3.png)
+https://imgur.com/kZRkfVC
 
 #### Contact Form
-![Getform Contact Page](image-4.png)
+https://imgur.com/COgobyV
 
 #### Responsiveness / Mobile Version
-![Mobile Responsiveness](image-5.png)
+https://imgur.com/rfjGUOo
 
  ### Future Improvements
  If I had more time and better resources, how would I change or improve this project?
