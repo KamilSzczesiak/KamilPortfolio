@@ -25,7 +25,7 @@ const About = () => {
             every project. You can see more about my projects under the projects section or
             click
             <a href="#projects">
-              <u>here.</u>
+              <u> here.</u>
             </a>
           </p>
           <div className="flex flex-wrap items-center gap-4 md:gap-7">{aboutItems.map(({
