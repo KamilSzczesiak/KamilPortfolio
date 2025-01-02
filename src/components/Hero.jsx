@@ -21,7 +21,7 @@ const Hero = () => {
           </h2>
 
           <div className="flex items-center gap-3">
-            <ButtonPrimary href="./src/resume/KamilSzczesiakCV.docx"download label="Download CV" icon="download"/>
+            <ButtonPrimary href="src/resume/KamilSzczesiakCV.docx"download label="Download CV" icon="download"/>
             <ButtonOutline href="#about" label="Scroll Down" icon="arrow_downward"/>
           </div>
         </div>
@@ -29,7 +29,7 @@ const Hero = () => {
           <figure
             className="w-ful max-w-[480px] ml-auto bg-gradient-to-t from-sky-400 via-25% via-sky-400/40 to-65% rounded-[60px] overflow-hidden">
             <img
-              src="./src/resume/KamilSzczesiakCV.docx"
+              src="./images/hero-banner.png"
               width={656}
               height={800}
               alt="Kamil Szczesiak"
