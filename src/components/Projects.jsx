@@ -2,31 +2,31 @@ import ProjectCard from "./ProjectCard";
 
 const projects = [
     {
-      imgSrc: '/images/project-1.png',
+      imgSrc: '../images/project-1.png',
       title: 'Portfolio Website',
       tags: ['Developing', 'HTML', 'CSS'],
       projectLink: 'https://github.com/KamilSzczesiak/Portfolio'
     },
     {
-      imgSrc: '/images/project-2.png',
+      imgSrc: '../images/project-2.png',
       title: 'Nails Website',
       tags: ['Developing', 'Services', 'HTML', 'CSS'],
       projectLink: 'https://github.com/KamilSzczesiak/GeluxeNails'
     },
     {
-      imgSrc: '/images/project-3.png',
+      imgSrc: '../images/project-3.png',
       title: 'Tic Tac Toe Game',
       tags: ['Developing', 'Game', 'HTML', 'CSS', 'React'],
       projectLink: '#'
     },
     {
-      imgSrc: '/images/coming-soon.jpg',
+      imgSrc: '../images/coming-soon.jpg',
       title: 'Local Cafe Website',
       tags: ['Developing', 'Services', 'HTML', 'CSS', 'React'],
       projectLink: '#'
     },
     {
-      imgSrc: '/images/coming-soon.jpg',
+      imgSrc: '../images/coming-soon.jpg',
       title: 'Online Quiz',
       tags: ['Developing', 'Educational', 'HTML', 'CSS', 'React'],
       projectLink: '#'
