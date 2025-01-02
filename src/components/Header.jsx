@@ -25,7 +25,7 @@ const Header = () => {
                 className="logo"
                 >
                     <img
-                    src="/images/logo.png"
+                    src="./images/logo.png"
                     width={100}
                     height={100}
                     alt="Kamil Szczesiak" />
