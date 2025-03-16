@@ -20,16 +20,16 @@ const projects = [
       projectLink: '#'
     },
     {
-      imgSrc: './images/coming-soon.jpg',
+      imgSrc: './images/project-4.png',
       title: 'Local Cafe Website',
       tags: ['Developing', 'Services', 'HTML', 'CSS', 'React'],
-      projectLink: '#'
+      projectLink: 'https://kamilszczesiak.github.io/Cafe/'
     },
     {
-      imgSrc: './images/coming-soon.jpg',
+      imgSrc: './images/project-5.png',
       title: 'Online Quiz',
       tags: ['Developing', 'Educational', 'HTML', 'CSS', 'React'],
-      projectLink: '#'
+      projectLink: 'https://kamilszczesiak.github.io/AstronomyQuiz/'
     }
   ];
 
